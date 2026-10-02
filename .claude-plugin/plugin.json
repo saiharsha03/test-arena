@@ -1,0 +1,13 @@
+{
+  "name": "test-arena",
+  "version": "0.1.0",
+  "author": {
+    "name": "Sai Rudra"
+  },
+  "description": "Clawd fights your test runs above the prompt: green kills a monster, red ones fight back. /test-arena shows or hides it.",
+  "types": "./types/index.d.ts",
+  "displayName": "Test Arena",
+  "homepage": "https://github.com/saiharsha03/test-arena",
+  "repository": "https://github.com/saiharsha03/test-arena",
+  "license": "MIT"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "test-arena",
+  "owner": {
+    "name": "Sai Rudra"
+  },
+  "metadata": {
+    "description": "Clawd fights your test runs above the prompt: green kills a monster, red ones fight back. /test-arena shows or hides it."
+  },
+  "plugins": [
+    {
+      "name": "test-arena",
+      "source": "./",
+      "description": "Clawd fights your test runs above the prompt: green kills a monster, red ones fight back. /test-arena shows or hides it."
+    }
+  ]
+}
